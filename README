@@ -1,0 +1,8 @@
+# This is the dashboard for Organiztion and Teacher. #
+
+ORGANIZTION :
+
+TEACHER :
+	
+	=> Teacher can login, logout.
+	=> Teacher can add and delete class.
